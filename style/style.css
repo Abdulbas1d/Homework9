@@ -4,10 +4,61 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 1250px;
-    margin: 0 auto;
-    background-color: ;
+body {
+    background-color: #ede0e0;
 }
 
+.container {
+    width: 1350px;
+    margin: 0 auto;
+}
 
+.title {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.card {
+    width: 300px;
+    height: 390px;
+    display: inline-block;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 12px;
+    background-color: #fff;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.data {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.data1 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.data2 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: x-large;
+    font-weight: bolder;
+}
